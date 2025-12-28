@@ -56,9 +56,6 @@ System SAFE for programming
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
 
-## Contributing
-Issues and PRs welcome. See [CONTRIBUTING](CONTRIBUTING.md).
-
 ---
 
 **Protect your hardware. Flash safely.**
