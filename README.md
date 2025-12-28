@@ -49,8 +49,9 @@ System SAFE for programming
 - ✅ Detailed serial feedback
 
 ## Supported Boards
-- ESP32-S3-DevKitC-1
-- Most ESP32-S3 development boards
+- ESP32-S3-DEV-KIT-NXRX
+- Most ESP32S3 development boards
+- Other ESP32 development boards
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
