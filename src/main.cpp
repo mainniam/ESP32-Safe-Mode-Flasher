@@ -83,7 +83,7 @@ void logMessage(int level, const char* format, ...) {
 
 // ==================== PIN SAFETY ====================
 void secureAllPins() {
-  logMessage(1, "\n🔧 Securing GPIO pins...");
+  logMessage(1, "\n Securing GPIO pins...");
   
   for (int pin = 0; pin <= 48; pin++) {
     // Skip invalid GPIOs
