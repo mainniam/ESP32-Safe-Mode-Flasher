@@ -53,6 +53,12 @@ System SAFE for programming
 - Most ESP32S3 development boards
 - Other ESP32 development boards
 
+## Questions & Issues
+
+- 🐛 **Bugs**: Open an [Issue](../../issues) with your board model and serial output
+- 💡 **Suggestions**: Start a [Discussion](../../discussions)  
+- 🔧 **Code**: Fork and PR - keep changes focused on pin safety
+
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
 
