@@ -1,4 +1,4 @@
-# ESP32-S3 Safe Mode Flasher
+# ESP32 Safe Mode Flasher
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ESP32-S3](https://img.shields.io/badge/ESP32--S3-Compatible-blue)](https://www.espressif.com/en/products/socs/esp32-s3)
